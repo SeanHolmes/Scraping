@@ -1,0 +1,332 @@
+id,Home Team,Home Team Score,Visit Team,Visit Team Score
+400791590,Dallas Cowboys,27,New York,26
+400791705,Philadelphia,10,Dallas Cowboys,20
+400791491,Dallas Cowboys,28,Atlanta,39
+400791720,New Orleans,26,Dallas Cowboys,20
+400791559,Dallas Cowboys,6,New England,30
+400791564,New York,27,Dallas Cowboys,20
+400791681,Dallas Cowboys,12,Seattle,13
+400791734,Dallas Cowboys,27,Philadelphia,33
+400791494,Tampa Bay,10,Dallas Cowboys,6
+400791703,Miami,14,Dallas Cowboys,24
+400791509,Dallas Cowboys,14,Carolina,33
+400791686,Washington,16,Dallas Cowboys,19
+400791612,Green Bay,28,Dallas Cowboys,7
+400791656,Dallas Cowboys,16,New York,19
+400791535,Buffalo,16,Dallas Cowboys,6
+400791651,Dallas Cowboys,23,Washington,34
+400791786,San Diego,17,Dallas Cowboys,7
+400791787,San Francisco,23,Dallas Cowboys,6
+400791783,Dallas Cowboys,14,Minnesota,28
+400791777,Dallas Cowboys,21,Houston,14
+400791672,New York Giants,20,Atlanta,24
+400791484,New York Giants,32,Washington,21
+400791678,Buffalo,10,New York Giants,24
+400791584,New York Giants,30,San Francisco,27
+400791676,Philadelphia,27,New York Giants,7
+400791618,New Orleans,52,New York Giants,49
+400791731,Tampa Bay,18,New York Giants,32
+400791591,New York Giants,26,New England,27
+400791506,Washington,20,New York Giants,14
+400791572,New York Giants,20,New York,23
+400791641,Miami,24,New York Giants,31
+400791693,New York Giants,35,Carolina,38
+400791565,Minnesota,49,New York Giants,17
+400791654,New York Giants,30,Philadelphia,35
+400791144,Cincinnati,23,New York Giants,10
+400791770,New York Giants,22,Jacksonville,12
+400791785,New York Giants,18,New York,28
+400791791,New England,9,New York Giants,12
+400791596,Atlanta,26,Philadelphia Eagles,24
+400791583,New York,17,Philadelphia Eagles,24
+400791704,Washington,23,Philadelphia Eagles,20
+400791542,Philadelphia Eagles,39,New Orleans,17
+400791567,Carolina,27,Philadelphia Eagles,16
+400791552,Philadelphia Eagles,19,Miami,20
+400791668,Philadelphia Eagles,17,Tampa Bay,45
+400791507,Detroit,45,Philadelphia Eagles,14
+400791658,New England,28,Philadelphia Eagles,35
+400791524,Philadelphia Eagles,23,Buffalo,20
+400791692,Philadelphia Eagles,17,Arizona,40
+400791508,Philadelphia Eagles,24,Washington,38
+400791773,Philadelphia Eagles,36,Indianapolis,10
+400791774,Philadelphia Eagles,40,Baltimore,17
+400791768,Green Bay,26,Philadelphia Eagles,39
+400791792,New York,24,Philadelphia Eagles,18
+400820430,Washington Redskins,18,Green Bay,35
+400791544,Washington Redskins,10,Miami,17
+400791675,Washington Redskins,24,St. Louis,10
+400791495,Atlanta,25,Washington Redskins,19
+400791598,New York,34,Washington Redskins,20
+400791511,Washington Redskins,31,Tampa Bay,30
+400791721,New England,27,Washington Redskins,10
+400791549,Washington Redskins,47,New Orleans,14
+400791707,Carolina,44,Washington Redskins,16
+400791580,Chicago,21,Washington Redskins,24
+400791695,Washington Redskins,35,Buffalo,25
+400791771,Cleveland,17,Washington Redskins,20
+400791795,Washington Redskins,21,Detroit,17
+400791780,Baltimore,13,Washington Redskins,31
+400790314,Washington Redskins,16,Jacksonville,17
+400791541,Buffalo Bills,27,Indianapolis,14
+400791664,Buffalo Bills,32,New England,40
+400791623,Miami,14,Buffalo Bills,41
+400791551,Tennessee,13,Buffalo Bills,14
+400791627,Buffalo Bills,21,Cincinnati,34
+400761515,Jacksonville,34,Buffalo Bills,31
+400791725,Buffalo Bills,33,Miami,17
+400791486,New York,17,Buffalo Bills,22
+400791717,New England,20,Buffalo Bills,13
+400791504,Kansas City,30,Buffalo Bills,22
+400791611,Buffalo Bills,30,Houston,21
+400791603,Buffalo Bills,22,New York,17
+400791738,Buffalo Bills,24,Carolina,25
+400790304,Cleveland,10,Buffalo Bills,11
+400791740,Buffalo Bills,43,Pittsburgh,19
+400791761,Detroit,17,Buffalo Bills,10
+400791680,Jacksonville,23,Miami Dolphins,20
+400761514,Miami Dolphins,14,New York,27
+400791639,Tennessee,10,Miami Dolphins,38
+400791533,Miami Dolphins,44,Houston,26
+400791601,New England,36,Miami Dolphins,7
+400791522,New York,38,Miami Dolphins,20
+400791615,Miami Dolphins,15,Baltimore,13
+400791724,San Diego,30,Miami Dolphins,14
+400791525,Miami Dolphins,12,Indianapolis,18
+400791607,Miami Dolphins,20,New England,10
+400791102,Chicago,27,Miami Dolphins,10
+400791106,Carolina,31,Miami Dolphins,30
+400791107,Miami Dolphins,13,Atlanta,9
+400791108,Miami Dolphins,17,Tampa Bay,22
+400820432,New England Patriots,27,Kansas City,20
+400820436,Denver,20,New England Patriots,18
+400791485,New England Patriots,28,Pittsburgh,21
+400791553,New England Patriots,51,Jacksonville,17
+400791674,Indianapolis,27,New England Patriots,34
+400791536,New England Patriots,30,New York,23
+400791537,Denver,30,New England Patriots,24
+400791570,Houston,6,New England Patriots,27
+400791694,New England Patriots,33,Tennessee,16
+400791515,New York,26,New England Patriots,20
+400791766,New England Patriots,11,Green Bay,22
+400791790,New Orleans,24,New England Patriots,26
+400791739,Carolina,16,New England Patriots,17
+400791497,New York Jets,31,Cleveland,10
+400791711,Indianapolis,7,New York Jets,20
+400791657,Oakland,34,New York Jets,20
+400791728,New York Jets,28,Jacksonville,23
+400791665,Houston,24,New York Jets,17
+400791562,New York Jets,30,Tennessee,8
+400791794,Detroit,23,New York Jets,3
+400791737,New York Jets,30,Atlanta,22
+400820433,Arizona Cardinals,26,Green Bay,20
+400820437,Carolina,49,Arizona Cardinals,15
+400791555,Arizona Cardinals,31,New Orleans,19
+400791661,Chicago,23,Arizona Cardinals,48
+400791597,Arizona Cardinals,47,San Francisco,7
+400791718,Arizona Cardinals,22,St. Louis,24
+400791554,Detroit,17,Arizona Cardinals,42
+400791621,Pittsburgh,25,Arizona Cardinals,13
+400791574,Arizona Cardinals,26,Baltimore,18
+400791609,Cleveland,20,Arizona Cardinals,34
+400791599,Seattle,32,Arizona Cardinals,39
+400791710,Arizona Cardinals,34,Cincinnati,31
+400791526,San Francisco,13,Arizona Cardinals,19
+400791576,St. Louis,3,Arizona Cardinals,27
+400791513,Arizona Cardinals,23,Minnesota,20
+400791571,Arizona Cardinals,38,Green Bay,8
+400791689,Arizona Cardinals,6,Seattle,36
+400791778,Arizona Cardinals,19,Kansas City,34
+400791779,Arizona Cardinals,19,San Diego,22
+400790310,Oakland,23,Arizona Cardinals,30
+400791765,Denver,20,Arizona Cardinals,22
+400791600,San Francisco 49ers,20,Minnesota,3
+400791630,Pittsburgh,43,San Francisco 49ers,18
+400791716,San Francisco 49ers,3,Green Bay,17
+400791670,San Francisco 49ers,25,Baltimore,20
+400791503,San Francisco 49ers,3,Seattle,20
+400791613,St. Louis,27,San Francisco 49ers,6
+400791732,San Francisco 49ers,17,Atlanta,16
+400791713,Seattle,29,San Francisco 49ers,13
+400791647,Chicago,20,San Francisco 49ers,26
+400791530,Cleveland,24,San Francisco 49ers,10
+400791726,San Francisco 49ers,14,Cincinnati,24
+400791531,Detroit,32,San Francisco 49ers,17
+400791691,San Francisco 49ers,19,St. Louis,16
+400791776,Houston,23,San Francisco 49ers,10
+400791764,Denver,19,San Francisco 49ers,12
+400790311,San Francisco 49ers,14,San Diego,12
+400820431,Minnesota,9,Seattle Seahawks,10
+400820435,Carolina,31,Seattle Seahawks,24
+400791550,St. Louis,34,Seattle Seahawks,31
+400791708,Green Bay,27,Seattle Seahawks,17
+400791626,Seattle Seahawks,26,Chicago,0
+400791741,Seattle Seahawks,13,Detroit,10
+400791492,Cincinnati,27,Seattle Seahawks,24
+400791663,Seattle Seahawks,23,Carolina,27
+400791532,Seattle Seahawks,39,Pittsburgh,30
+400791606,Minnesota,7,Seattle Seahawks,38
+400791616,Baltimore,6,Seattle Seahawks,35
+400791697,Seattle Seahawks,30,Cleveland,13
+400791569,Seattle Seahawks,17,St. Louis,23
+400791762,Seattle Seahawks,20,Denver,22
+400791781,Kansas City,14,Seattle Seahawks,13
+400790308,San Diego,15,Seattle Seahawks,16
+400791149,Seattle Seahawks,31,Oakland,21
+400791594,St. Louis Rams,6,Pittsburgh,12
+400791548,Green Bay,24,St. Louis Rams,10
+400791529,St. Louis Rams,24,Cleveland,6
+400791727,Minnesota,21,St. Louis Rams,18
+400791543,St. Louis Rams,13,Chicago,37
+400791679,Baltimore,16,St. Louis Rams,13
+400791516,Cincinnati,31,St. Louis Rams,7
+400791534,St. Louis Rams,21,Detroit,14
+400791650,St. Louis Rams,31,Tampa Bay,23
+400791147,Oakland,18,St. Louis Rams,3
+400790305,Tennessee,27,St. Louis Rams,14
+400791793,St. Louis Rams,14,Indianapolis,24
+400791789,St. Louis Rams,17,Kansas City,24
+400820434,Denver Broncos,23,Pittsburgh,16
+400791587,Denver Broncos,19,Baltimore,13
+400791624,Kansas City,24,Denver Broncos,31
+400791631,Detroit,12,Denver Broncos,24
+400791719,Denver Broncos,23,Minnesota,20
+400791560,Oakland,10,Denver Broncos,16
+400791633,Cleveland,23,Denver Broncos,26
+400791684,Denver Broncos,29,Green Bay,10
+400791733,Indianapolis,27,Denver Broncos,24
+400791595,Denver Broncos,13,Kansas City,29
+400791673,Chicago,15,Denver Broncos,17
+400791652,San Diego,3,Denver Broncos,17
+400791608,Denver Broncos,12,Oakland,15
+400791723,Pittsburgh,34,Denver Broncos,27
+400791578,Denver Broncos,20,Cincinnati,17
+400791687,Denver Broncos,27,San Diego,20
+400791763,Houston,10,Denver Broncos,14
+400820429,Houston,0,Kansas City Chiefs,30
+400791493,Houston,20,Kansas City Chiefs,27
+400791635,Green Bay,38,Kansas City Chiefs,28
+400791712,Cincinnati,36,Kansas City Chiefs,21
+400791488,Kansas City Chiefs,17,Chicago,18
+400791625,Minnesota,16,Kansas City Chiefs,10
+400791527,Kansas City Chiefs,23,Pittsburgh,13
+400761516,Kansas City Chiefs,45,Detroit,10
+400791715,San Diego,3,Kansas City Chiefs,33
+400791655,Oakland,20,Kansas City Chiefs,34
+400791577,Kansas City Chiefs,10,San Diego,3
+400791696,Baltimore,14,Kansas City Chiefs,34
+400791521,Kansas City Chiefs,17,Cleveland,13
+400791648,Kansas City Chiefs,23,Oakland,17
+400791788,Kansas City Chiefs,34,Tennessee,10
+400791585,Oakland Raiders,13,Cincinnati,33
+400791702,Oakland Raiders,37,Baltimore,33
+400791500,Cleveland,20,Oakland Raiders,27
+400791706,Chicago,22,Oakland Raiders,20
+400791540,San Diego,29,Oakland Raiders,37
+400791730,Pittsburgh,38,Oakland Raiders,35
+400791586,Oakland Raiders,14,Minnesota,30
+400791636,Detroit,18,Oakland Raiders,13
+400791502,Tennessee,21,Oakland Raiders,24
+400791699,Oakland Raiders,20,Green Bay,30
+400791501,Oakland Raiders,23,San Diego,20
+400791148,Minnesota,20,Oakland Raiders,12
+400791558,San Diego Chargers,33,Detroit,28
+400791666,Cincinnati,24,San Diego Chargers,19
+400791592,Minnesota,31,San Diego Chargers,14
+400791714,San Diego Chargers,30,Cleveland,27
+400791588,San Diego Chargers,20,Pittsburgh,24
+400791667,Green Bay,27,San Diego Chargers,20
+400791646,Baltimore,29,San Diego Chargers,26
+400791735,San Diego Chargers,19,Chicago,22
+400791519,Jacksonville,25,San Diego Chargers,31
+400791489,Chicago Bears,23,Green Bay,31
+400791629,Detroit,37,Chicago Bears,34
+400791642,Chicago Bears,20,Minnesota,23
+400791510,Green Bay,13,Chicago Bears,17
+400791660,Minnesota,38,Chicago Bears,17
+400791538,Tampa Bay,21,Chicago Bears,26
+400791659,Chicago Bears,20,Detroit,24
+400791103,Indianapolis,11,Chicago Bears,23
+400791104,Cincinnati,21,Chicago Bears,10
+400791105,Chicago Bears,24,Cleveland,0
+400791638,Minnesota,26,Detroit Lions,16
+400791523,Detroit Lions,19,Minnesota,28
+400791490,Green Bay,16,Detroit Lions,18
+400791568,Detroit Lions,23,Green Bay,27
+400791729,New Orleans,27,Detroit Lions,35
+400790307,Jacksonville,17,Detroit Lions,22
+400791700,Carolina,37,Green Bay Packers,29
+400791677,Minnesota,13,Green Bay Packers,30
+400791683,Green Bay Packers,13,Minnesota,20
+400791767,Pittsburgh,24,Green Bay Packers,19
+400791769,Green Bay Packers,38,New Orleans,10
+400791514,Atlanta,10,Minnesota Vikings,20
+400761517,Minnesota Vikings,14,Pittsburgh,3
+400791782,Minnesota Vikings,26,Tampa Bay,16
+400791784,Tennessee,24,Minnesota Vikings,17
+400791546,Baltimore Ravens,24,Cincinnati,28
+400791662,Pittsburgh,20,Baltimore Ravens,23
+400791545,Baltimore Ravens,30,Cleveland,33
+400791581,Baltimore Ravens,20,Jacksonville,22
+400791561,Cleveland,27,Baltimore Ravens,33
+400791575,Baltimore Ravens,20,Pittsburgh,17
+400791617,Cincinnati,24,Baltimore Ravens,16
+400790313,Baltimore Ravens,30,New Orleans,27
+400791146,Atlanta,20,Baltimore Ravens,19
+400820428,Cincinnati Bengals,16,Pittsburgh,18
+400791649,Pittsburgh,10,Cincinnati Bengals,16
+400791698,Cincinnati Bengals,31,Cleveland,10
+400791622,Cincinnati Bengals,6,Houston,10
+400791619,Cleveland,3,Cincinnati Bengals,37
+400791566,Cincinnati Bengals,20,Pittsburgh,33
+400790306,Tampa Bay,25,Cincinnati Bengals,11
+400791145,Indianapolis,6,Cincinnati Bengals,9
+400791669,Cleveland Browns,28,Tennessee,14
+400791556,Pittsburgh,30,Cleveland Browns,9
+400791620,Cleveland Browns,12,Pittsburgh,28
+400791772,Tampa Bay,7,Cleveland Browns,31
+400791682,Pittsburgh Steelers,45,Indianapolis,10
+400791141,Jacksonville,23,Pittsburgh Steelers,21
+400791143,Pittsburgh Steelers,6,Carolina,23
+400791709,Atlanta Falcons,48,Houston,21
+400791593,New Orleans,31,Atlanta Falcons,21
+400791517,Tennessee,7,Atlanta Falcons,10
+400791605,Atlanta Falcons,20,Tampa Bay,23
+400791640,Atlanta Falcons,21,Indianapolis,24
+400791579,Tampa Bay,23,Atlanta Falcons,19
+400791604,Carolina,38,Atlanta Falcons,0
+400791685,Jacksonville,17,Atlanta Falcons,23
+400791563,Atlanta Falcons,20,Carolina,13
+400791614,Atlanta Falcons,17,New Orleans,20
+400791736,Atlanta Falcons,31,Tennessee,24
+400791547,Jacksonville,9,Carolina Panthers,20
+400791628,Carolina Panthers,24,Houston,17
+400791557,Carolina Panthers,27,New Orleans,22
+400791701,Tampa Bay,23,Carolina Panthers,37
+400791690,Carolina Panthers,29,Indianapolis,26
+400791499,Tennessee,10,Carolina Panthers,27
+400791602,New Orleans,38,Carolina Panthers,41
+400791610,Carolina Panthers,38,Tampa Bay,10
+400791634,New Orleans Saints,19,Tampa Bay,26
+400791520,Indianapolis,21,New Orleans Saints,27
+400791722,New Orleans Saints,28,Tennessee,34
+400791512,Houston,24,New Orleans Saints,6
+400791539,Tampa Bay,17,New Orleans Saints,24
+400791528,New Orleans Saints,38,Jacksonville,27
+400790309,New Orleans Saints,13,Houston,27
+400791582,Tampa Bay Buccaneers,14,Tennessee,42
+400791589,Houston,19,Tampa Bay Buccaneers,9
+400791498,Tampa Bay Buccaneers,38,Jacksonville,31
+400791505,Indianapolis,25,Tampa Bay Buccaneers,12
+400791487,Houston Texans,20,Indianapolis,27
+400791637,Jacksonville,20,Houston Texans,31
+400791653,Houston Texans,20,Tennessee,6
+400791688,Indianapolis,10,Houston Texans,16
+400791518,Tennessee,6,Houston Texans,34
+400791644,Houston Texans,30,Jacksonville,6
+400791496,Tennessee,33,Indianapolis Colts,35
+400791671,Indianapolis Colts,16,Jacksonville,13
+400791573,Jacksonville,51,Indianapolis Colts,16
+400791645,Indianapolis Colts,30,Tennessee,24
+400791632,Jacksonville Jaguars,19,Tennessee,13
+400791643,Tennessee,42,Jacksonville Jaguars,39
